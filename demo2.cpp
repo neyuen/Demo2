@@ -6,5 +6,6 @@ using namespace std;
 int main() {
     cout << "My name is Thu" << endl;
     cout << "Oh ra la vay" << endl;
+    cout << "lololo" << endl;
 }
 
